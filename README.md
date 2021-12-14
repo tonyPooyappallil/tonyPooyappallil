@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Antony Chacko</h1>
 <h3 align="center">A Full-Stack web developer from India</h3>
+<h3 align="left">Checkout my <a href="https://antonys-portfolio.netlify.app/" target="blank">Portfolio Website</a></h3>
+<br/>
 
-- 📫 How to reach me **antony101tony@gmail.com**
-<h3 align="left">Checkout my Portfolio Website:</h3>
-<a href="https://antonys-portfolio.netlify.app/" target="blank"><img align="center" src="https://www.pikpng.com/pngl/m/470-4702281_portfolio-png-photos-portfolio-logo-png-clipart.png" height="30" width="40" /></a>
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-Ou6QDk9OKnNE9st_3M0x5VRwaipyf_I/view?usp=sharing](https://drive.google.com/file/d/1-Ou6QDk9OKnNE9st_3M0x5VRwaipyf_I/view?usp=sharing)
+📫 reach me at **antony101tony@gmail.com**
+
+
+
+📄 Know about my experiences - go through my resume <a href="https://drive.google.com/file/d/1-Ou6QDk9OKnNE9st_3M0x5VRwaipyf_I/view?usp=sharing](https://drive.google.com/file/d/1-Ou6QDk9OKnNE9st_3M0x5VRwaipyf_I/view?usp=sharing" target="blank">here</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tonyantonypooyappallil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonyantonypooyappallil" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tony pooyappallil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tony pooyappallil" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCnaMBNsUDC1lpoDOgWR4JzQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tony pooyappallil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
