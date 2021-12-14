@@ -2,6 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm Antony Chacko</h1>
 <h3 align="center">A Full-Stack web developer from India</h3>
+
+<h3>About Me</h3>
+I'm a Tech savvy person who likes learning and keeping his brain cells active! I'm currently studying full-stack web development at Masai School, which I must say has really pushed me to learn and develop myself. I'm also a certified PLC programmer and I have experience in quality control of industrial automation panels.
+
+I always had a great interest towards technology, but it was during my Electronics engineering time that I found out that coding is the thing that I'm best at. After working as a quality controller for 2 years, I decided to take a leap of faith and learn coding. Fortunately, I found Masai School and went all in. My time at Masai has taken me on a wonderful journey towards becoming a full-stack web developer, with hands-on experience in HTML, CSS, Javascript, React, and MongoDB.
+
+As a professional, I believe I'm good at decision-making and problem-solving. I am a people person, and I think this stems from actively working towards developing my EQ.
+
+I am also a complete musician! I sing, play the piano and bass guitar, and also have a YouTube channel on which I upload covers. I have a great home studio too (if I say so myself).
+
+
 <h3 align="left">Checkout my <a href="https://antonys-portfolio.netlify.app/" target="blank">Portfolio Website</a></h3>
 <br/>
 
