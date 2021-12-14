@@ -1,3 +1,5 @@
+<img width="100%" src="https://media.istockphoto.com/photos/blue-computer-code-wallpaper-simple-picture-id913071832?b=1&k=20&m=913071832&s=170667a&w=0&h=J1UakQczF2710mBUiMHl66LHzyD8S-9dAtc97curW4w="></img>
+
 <h1 align="center">Hi 👋, I'm Antony Chacko</h1>
 <h3 align="center">A Full-Stack web developer from India</h3>
 <h3 align="left">Checkout my <a href="https://antonys-portfolio.netlify.app/" target="blank">Portfolio Website</a></h3>
