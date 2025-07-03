@@ -4,15 +4,21 @@
 <h3 align="center">A Full-Stack web developer from India</h3>
 
 <h3>About Me</h3>
-I'm a Tech savvy person who likes learning and keeping his brain cells active! I'm currently studying full-stack web development at Masai School, which I must say has really pushed me to learn and develop myself. I'm also a certified PLC programmer and I have experience in quality control of industrial automation panels.
+I'm a tech-savvy individual who loves learning and keeping my brain active. While my passion for technology began early, it was during my Electronics Engineering days that I discovered a deep interest in coding. After working as a Quality Controller for two years, I decided to take a leap of faith and pursue a career in IT.
 
-I always had a great interest towards technology, but it was during my Electronics engineering time that I found out that coding is the thing that I'm best at. After working as a quality controller for 2 years, I decided to take a leap of faith and learn coding. Fortunately, I found Masai School and went all in. My time at Masai has taken me on a wonderful journey towards becoming a full-stack web developer, with hands-on experience in HTML, CSS, Javascript, React, and MongoDB.
+I joined Masai School, where I trained extensively in Full-Stack Web Development. Through hands-on projects and an immersive curriculum, I built strong skills in HTML, CSS, JavaScript, React, Node.js, and MongoDB, which laid a solid foundation for my professional journey.
 
-As a professional, I believe I'm good at decision-making and problem-solving. I am a people person, and I think this stems from actively working towards developing my EQ.
+I then worked at Tracxn Technologies, Bangalore (Feb 2022 – Nov 2022) as a Full-Stack Web Developer. I contributed to both frontend and backend development, collaborated with product teams to build over 20 new features, resolved more than 30 bugs, and refactored key areas of the codebase to improve performance and maintainability.
 
-I am also a complete musician! I sing, play the piano and bass guitar, and also have a YouTube channel on which I upload covers. I have a great home studio too (if I say so myself).
+Currently, I’m pursuing a Master of Computer Science at Edith Cowan University (ECU), Perth (July 2023 – Present). The course has helped me expand my knowledge in areas such as Networking, Systems Analysis, Cyber Security, Artificial Intelligence, Scripting, Machine Learning, and Project Management—pushing me to think critically and apply theory to real-world challenges.
 
+For my final research project, I’m working on “Multimodal AI Techniques for Predicting Obstructive Sleep Apnoea (OSA)”, a condition linked to serious health risks like cardiovascular disease and neurocognitive impairment. Traditional diagnosis using polysomnography (PSG) is often expensive, time-consuming, and inaccessible. Our project presents three deep learning-based frameworks that combine physiological signal data, craniofacial medical imaging, and demographic information using a late fusion strategy. The models demonstrated promising results, achieving up to 84% accuracy and 0.87 AUC, showing potential for scalable, non-invasive alternatives to PSG for early OSA diagnosis.
 
+I consider myself a strong problem solver and decision-maker. I also value emotional intelligence and enjoy working in collaborative environments. I believe communication, empathy, and adaptability are just as important as technical expertise.
+
+Outside of tech, I’m a passionate musician. I sing, play the piano and bass guitar, and upload covers to my YouTube channel—all recorded in my home studio.
+
+I’m always open to meaningful conversations, tech collaborations, and creative ideas. Feel free to reach out at antony101tony@gmail.com.
 <h3 align="left">Checkout my <a href="https://antonys-portfolio.netlify.app/" target="blank">Portfolio Website</a></h3>
 <br/>
 
